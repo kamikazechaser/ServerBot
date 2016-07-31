@@ -9,7 +9,7 @@ A 💡Telegram Bot For Checking **Server Statistics And Information.**
 
 - _Ensure you have NodeJS and npm installed else visit [here](https://nodejs.org/en/download/package-manager/)_
 - _Preferrable to use with tmux or screen_
-- _If you have a windows server edit the bot.js file as commented on line 37_
+- _If you have a windows server edit the bot.js file as commented on line 40_
 - _Replace your token in the config.json file_
 
 ```bash
