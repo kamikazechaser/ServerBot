@@ -22,5 +22,9 @@
     "os-utils": "^0.0.14",
     "json-watch": "^1.0.2",
     "speedtest-net": "^1.2.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0"
   }
 }
