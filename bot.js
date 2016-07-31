@@ -4,7 +4,6 @@ var ip = require("ip");
 var pos  = require('os-utils');
 var moment = require("moment");
 var disk = require('diskusage');
-var usage = require('os-usage');
 var fs = require('fs');
 var jsonWatcher = require('json-watch');
 var config = require('./config.json');
