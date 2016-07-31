@@ -12,11 +12,13 @@ A 💡Telegram Bot For Checking **Server Statistics And Information.**
 - _If you have a windows server edit the bot.js file as commented on line 37_
 
 ```bash
+$ npm install -g gulp
+
 $ git clone https://github.com/kamikazechaser/ServerBot.git && cd ServerBot
 
 $ npm install
 
-$ npm start
+$ gulp
 ```
 
 ## Commands
