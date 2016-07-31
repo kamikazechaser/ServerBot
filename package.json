@@ -1,0 +1,25 @@
+{
+  "name": "serverstatsbot",
+  "version": "1.5.2",
+  "description": "A Telegram Bot For Checking Server Statistics And Information. Demo @kamikazeserverbot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamikazechaser/ServerBot"
+  },
+  "author": "Mohammed Sohail",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "diskusage": "^0.1.5",
+    "ip": "^1.1.3",
+    "moment": "^2.14.1",
+    "nodeogram": "^0.0.4",
+    "os": "^0.1.1",
+    "os-utils": "^0.0.14",
+    "json-watch": "^1.0.2"
+    "speedtest-net": "^1.2.7"
+  }
+}
