@@ -1,7 +1,6 @@
 # ServerBot
 A 💡Telegram Bot For Checking **Server Statistics And Information.**
 
-[![Build Status](https://travis-ci.org/kamikazechaser/LiveCoinBot.svg?branch=master)](https://travis-ci.org/kamikazechaser/LiveCoinBot)
 [![https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md](https://img.shields.io/badge/license-GNU%20GPLv3-lightgrey.svg)](https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md)
 [![https://telegram.me/kamikazechaser](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-kamikazechaser-blue.svg)](https://telegram.me/kamikazechaser)
 
