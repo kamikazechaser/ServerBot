@@ -4,7 +4,8 @@
   "description": "A Telegram Bot For Checking Server Statistics And Information. Demo @kamikazeserverbot",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js",
+    "test": "node bot.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,7 @@
     "nodeogram": "^0.0.4",
     "os": "^0.1.1",
     "os-utils": "^0.0.14",
-    "json-watch": "^1.0.2"
+    "json-watch": "^1.0.2",
     "speedtest-net": "^1.2.7"
   }
 }
