@@ -3,6 +3,7 @@ A 💡Telegram Bot For Checking **Server Statistics And Information.**
 
 [![https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md](https://img.shields.io/badge/license-GNU%20GPLv3-lightgrey.svg)](https://github.com/kamikazechaser/LiveCoinBot/blob/master/LICENSE.md)
 [![https://telegram.me/kamikazechaser](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-kamikazechaser-blue.svg)](https://telegram.me/kamikazechaser)
+[![Dependency Status](https://david-dm.org/kamikazechaser/ServerBot.svg)](https://david-dm.org/kamikazechaser/ServerBot)
 
 ## Installation
 
