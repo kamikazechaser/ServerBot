@@ -28,6 +28,7 @@ $ gulp
 Command | Description
 --- | ---
 /start | Displays general information about the bot and list of commands.
+/bash [cmd] | Execute UNIX commands on the machine and get a reply if any _(directory cannot be changed)_.
 /info | Gets the general information of the server.
 /disk | Displays the storage information of the server.
 /ram | Displays the memory information of the server.
