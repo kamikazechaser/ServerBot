@@ -37,7 +37,9 @@ Command | Description
 /results | Displays the speed-test results.
 /geo | Geo-locates the server.
 
+## Disclaimer
 
+I am yet to introduce security for this bot, esprcially for the `/bash` command. Untill then be careful! 
 
 ## License
  
