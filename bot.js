@@ -5,12 +5,25 @@ var pos = require('os-utils');
 var moment = require("moment");
 var disk = require('diskusage');
 var fs = require('fs');
+var exec = require('child_process').exec
 var config = require('./config.json');
 var results = require('./netstat.json');
 
-bot = new nodeogram.Bot(config);
+bot = new nodeogram.Bot(config.token);
 
 bot.init();
+
+bot.command('bash', 'Execute A Command. Usage /bash [cmd]', false, (args, message) => {
+        exec(args.join(" "), function (error, stdout, stderr) {
+        var resp = ''
+        if (error !== null) {
+            resp = stderr
+        } else {
+            resp = stdout
+        }       
+        bot.sendMessage(message.from.id, `<code>${resp}</code>`, {parse_mode: 'HTML'})
+    });
+});
 
 bot.command('ping', 'Execute Speed-Test', false, (args, message) => {
     message.from.sendMessage(`<code>Speed Test Started!</code>`, {
