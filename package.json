@@ -1,6 +1,6 @@
 {
   "name": "serverstatsbot",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "description": "A Telegram Bot For Checking Server Statistics And Information. Demo @kamikazeserverbot",
   "main": "bot.js",
   "scripts": {
