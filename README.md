@@ -5,6 +5,7 @@ A 💡Telegram Bot For Checking **Server Statistics And Information.**
 [![https://telegram.me/kamikazechaser](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-kamikazechaser-blue.svg)](https://telegram.me/kamikazechaser)
 [![Dependency Status](https://david-dm.org/kamikazechaser/ServerBot.svg)](https://david-dm.org/kamikazechaser/ServerBot)
 [![devDependencies Status](https://david-dm.org/kamikazechaser/ServerBot/dev-status.svg)](https://david-dm.org/kamikazechaser/ServerBot?type=dev)
+[![Code Climate](https://codeclimate.com/github/kamikazechaser/ServerBot/badges/gpa.svg)](https://codeclimate.com/github/kamikazechaser/ServerBot)
 
 ## Installation
 
