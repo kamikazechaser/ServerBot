@@ -25,6 +25,6 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-nodemon": "^2.1.0"
+    "gulp-nodemon": "^2.2.1"
   }
 }
