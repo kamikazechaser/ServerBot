@@ -12,19 +12,22 @@ A 💡Telegram Bot For Checking **Server Statistics And Information.**
 - _Ensure you have NodeJS and npm installed else visit [here](https://nodejs.org/en/download/package-manager/)_
 - _Preferrable to use with tmux or screen_
 - _If you have a windows server edit the bot.js file as commented on line 53_
-- _Replace your token in the config.json file_
+- _Replace your token in bot.js_
+- _Add your userId so as to use the bot (or an array of users)_
 
 ```bash
-$ npm install -g gulp
+$ npm install -g nodemon
 
 $ git clone https://github.com/kamikazechaser/ServerBot.git && cd ServerBot
 
 $ npm install
 
-$ gulp
+$ nodemon bot.js
 ```
 
 ## Commands
+
+_As a security precaution, due to sensitivity of certain commands, e.g /bash, the bot will ignore ALL messages that are not from the SuperUser a.k.a sudo!_
 
 Command | Description
 --- | ---
@@ -38,9 +41,6 @@ Command | Description
 /results | Displays the speed-test results.
 /geo | Geo-locates the server.
 
-## Disclaimer
-
-I am yet to introduce security for this bot, esprcially for the `/bash` command. Untill then be careful! 
 
 ## License
  

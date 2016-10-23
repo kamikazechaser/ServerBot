@@ -1,11 +1,10 @@
 {
   "name": "serverstatsbot",
-  "version": "1.6.0",
+  "version": "2.0.0",
   "description": "A Telegram Bot For Checking Server Statistics And Information. Demo @kamikazeserverbot",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
-    "test": "node bot.js && exit"
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
