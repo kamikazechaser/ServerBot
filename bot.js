@@ -14,8 +14,8 @@ const nodeogram = require('nodeogram'),
 // Local Configs
       
       results   = require('./netstat.json'),
-      token     = '255965591:AAFDZkDbqElWdO33g6R4g6R_u83GNogoBC4',
-      sudo      = 181037911
+      token     = 'token',
+      sudo      = 0                                  // Replace with your ID
 
 const bot = new nodeogram.Bot(token);
 
