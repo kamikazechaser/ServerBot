@@ -1,6 +1,4 @@
-'use strict';
-
-// Nodu Modules
+// Node Modules
 
 const nodeogram = require('nodeogram'),
       os        = require('os'),
