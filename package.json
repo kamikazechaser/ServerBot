@@ -13,7 +13,7 @@
   "author": "Mohammed Sohail",
   "license": "GPL-3.0",
   "dependencies": {
-    "diskusage": "^0.1.5",
+    "diskusage": "^0.2.1",
     "ip": "^1.1.3",
     "moment": "^2.15.1",
     "nodeogram": "^0.0.7",
